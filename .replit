@@ -1,5 +1,3 @@
-onBoot = "npm install"
-run = "npm start"
 modules = ["nodejs-14", "web"]
 hidden = ["package-lock.json", "CHANGELOG.md", "CONTRIBUTORS.md"]
 
@@ -15,7 +13,3 @@ language = "nodejs"
 [deployment]
 run = ["sh", "-c", "npm start"]
 deploymentTarget = "cloudrun"
-
-[[ports]]
-localPort = 3000
-externalPort = 80
