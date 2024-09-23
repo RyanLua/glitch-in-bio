@@ -1,5 +1,5 @@
 modules = ["nodejs-14", "web"]
-hidden = ["package-lock.json", "CHANGELOG.md", "CONTRIBUTORS.md", "assets", "LICENSE"]
+hidden = ["package-lock.json", "CHANGELOG.md", "CONTRIBUTORS.md", "LICENSE"]
 run = "npm start"
 
 [gitHubImport]
