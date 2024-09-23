@@ -1,6 +1,6 @@
 onBoot = "npm install"
 run = "npm start"
-modules = ["nodejs-14", "web", "nix"]
+modules = ["nodejs-14", "web"]
 hidden = ["package-lock.json", "CHANGELOG.md", "CONTRIBUTORS.md"]
 
 [gitHubImport]
