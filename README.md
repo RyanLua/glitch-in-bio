@@ -1,6 +1,7 @@
 # Glitch in Bio!
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/RyanLua/glitch-in-bio?quickstart=1)
+[![Try with Replit Badge](https://replit.com/badge?caption=Try%20with%20Replit)](https://replit.com/@ryanluu10/glitch-in-bio?v=1)
 
 Your links, your way. A link-in-bio app you can customize any way you want.
 
