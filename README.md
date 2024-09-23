@@ -4,7 +4,7 @@
 
 Your links, your way. A link-in-bio app you can customize any way you want.
 
-![screen gif showing the header of the glitch-in-bio remix being updated to say "hello, world!"](https://cdn.glitch.global/28f22022-c2c5-4372-93ec-be33834d37d9/gib.gif?v=1694020426922)
+![screen gif showing the header of the glitch-in-bio remix being updated to say "hello, world!"](assets/gib.gif)
 
 ## Direct traffic to your own Glitch-in-bio app in 3 steps:
 
@@ -44,7 +44,7 @@ Get **verified** links by adding `rel="me"` to your anchor tags in `templates/so
 
 To use your Glitch in Bio site as a [Bluesky](https://bsky.app) handle, create a new file at `.well-known/atproto-did` and fill it in with the value provided by Bluesky in the [change handle flow](https://bsky.app/settings).
 
-![Screenshot of creating a new file](https://cdn.glitch.global/392b630f-7e63-4726-985e-4271b847758b/bluesky-did.png?v=1694808296064)
+![Screenshot of creating a new file](assets/bluesky-did.png)
 
 - Check out the [Glitch-in-bio section of our Help Center](https://help.glitch.com/hc/en-us/sections/16285912923917) for more documentation on how to customize or troubleshoot your new app!
 - If you notice your preview is a little out of sync with your `settings.json`, hit the reload button in the preview window and it should update!
@@ -66,7 +66,7 @@ To use your Glitch in Bio site as a [Bluesky](https://bsky.app) handle, create a
 
 ← `assets`: Add images here and copy the links into `settings.json` to show them in your site.
 
-![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
+![Glitch](assets/Logo_Color.svg)
 
 ## You built this with Glitch!
 
