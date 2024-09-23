@@ -1,0 +1,24 @@
+entrypoint = "settings.json"
+onBoot = "npm install"
+run = "npm start"
+
+modules = ["nodejs-14"]
+hidden = ["package-lock.json", "CHANGELOG.md", "CONTRIBUTORS.md"]
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix", "package.json", "package-lock.json"]
+
+[nix]
+channel = "stable-24_05"
+
+[unitTest]
+language = "nodejs"
+
+[deployment]
+run = "npm start"
+build = "npm run build"
+deploymentTarget = "cloudrun"
+
+[[ports]]
+localPort = 3000
+externalPort = 80
