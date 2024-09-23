@@ -1,5 +1,7 @@
 # Glitch in Bio!
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/RyanLua/glitch-in-bio?quickstart=1)
+
 Your links, your way. A link-in-bio app you can customize any way you want.
 
 ![screen gif showing the header of the glitch-in-bio remix being updated to say "hello, world!"](https://cdn.glitch.global/28f22022-c2c5-4372-93ec-be33834d37d9/gib.gif?v=1694020426922)
